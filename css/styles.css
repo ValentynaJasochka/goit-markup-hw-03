@@ -272,12 +272,12 @@ body {
   text-transform: uppercase;
   color: var(--logo-color);
   text-decoration: none;
-  margin-bottom: 16px;
   display: inline-block;
 }
 .logo-part-foter {
   line-height: 1.17;
   color: var(--logo-part-foter-color);
+  margin-bottom: 16px;
 }
 .foter-text {
   font-size: 16px;
